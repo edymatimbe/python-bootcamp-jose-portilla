@@ -1,0 +1,3 @@
+textName = "Edy"
+
+print(textName)
